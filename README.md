@@ -43,12 +43,13 @@ Given the alarming rates of carbon emissions we were keen to:
 
 ## Database Sample:
 
-< PNG >
+![Database-Sample](https://user-images.githubusercontent.com/102638461/188251541-c7f0c2b6-00c3-4175-9b92-a373824ea6e9.PNG)
 
 
 ## Machine Learning Model Summary:
 
-< PNG >
+![ML-Summary1](https://user-images.githubusercontent.com/102638461/188251548-7e3da51f-b2ff-4015-989a-e305e389638f.PNG)
+![ML-Summary2](https://user-images.githubusercontent.com/102638461/188251555-084fcc3e-1049-4814-a23d-807fdb98d8df.PNG)
 
 ## Machine Learning Model - Data columns:
 
@@ -56,7 +57,7 @@ Given the alarming rates of carbon emissions we were keen to:
 
 ● Features given in the screenshot are taken into consideration
 
-< PNG >
+![ML-Columns](https://user-images.githubusercontent.com/102638461/188251563-e842ef38-cde7-4543-88fe-0db0cd598d74.PNG)
 
 ## Next Steps:
 
