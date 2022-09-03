@@ -1,8 +1,4 @@
-# Group 15
-
-## Topic
-
-Global Carbon Emission Comparisons
+# Group 15 - Global Carbon Emission Comparisons
 
 
 ## Rationale for topic selection: 
