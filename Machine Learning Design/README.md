@@ -1,6 +1,9 @@
 # CO2 and Greenhouse Gas Emissions
 ## Project Overview:
 Human emissions of carbon dioxide and other greenhouse gasses – are a primary driver of climate change, and one of the world’s most pressing challenges at present. The link between global temperatures and greenhouse gas concentrations – especially CO2 – has been true throughout Earth’s history.
+
+![Co2 emissions sources](https://github.com/RuchitaAg/Group15_Project/blob/main/Machine%20Learning%20Design/Images/co2%20emissions%20by%20different%20sources.png)
+
 #### How can we decarbonize our energy systems?
 Shift towards low-carbon electricity (reduce carbon intensity – carbon per unit energy)
 1. Renewables
@@ -9,6 +12,7 @@ Shift towards low-carbon electricity (reduce carbon intensity – carbon per uni
 4. Shift sectors such as transport, towards electricity.
 
 Some energy sectors are harder to decarbonize – for example, transport. We therefore need to shift these forms towards electricity where we have viable low-carbon technologies.
+![Top 6 Co2 emissions sources](https://github.com/RuchitaAg/Group15_Project/blob/main/Machine%20Learning%20Design/Images/Top%206%20Co2%20emissions%20factors.png)
 Overall, the top 3 sectors that emit highest amount of CO2 are:
 
 1. Electricity and heat
