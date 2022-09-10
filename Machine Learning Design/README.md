@@ -37,7 +37,8 @@ Our goal is to create a generic prediction model on the basis of CO2 emissions, 
 3.	Energy production sources
 4.	Electricity production sources
 2.	Linear regression model to predict the CO2 emissions saved by electric vehicles.
-3.	Hypothesis Testing and p-values
+3.	Train-Test-validation-Split
+4.	Hypothesis Testing and p-values
 
 
 ## Algorithms and Techniques 
