@@ -75,17 +75,33 @@ Given the alarming rates of carbon emissions we were keen to:
 ![ML-DataSplit](https://user-images.githubusercontent.com/102638461/188787795-51912aab-79ec-42fc-a2de-e32634ee8055.PNG)
 
 
+## Dashboard Blueprint:
+
+Tools:
+
+● PostgresSQL
+
+● Scikit-Learn
+
+● Jupyter Notebook
+
+● Python 
+
+● Matplotlib & pandas
+
+
+## Finding and Recommendations:
+
+● Electricity and transport are the highest drivers of carbon/GHG emissions
+
+● Selecting a country/region to determine patterns of increased usage of alternate
+energy
+
+● Cleaner energy sources to aid EV charging capabilities
+
+
 ## Next Steps:
 
+● Finalise the database and dashboard slides
 
-● Explore and analyze data to study the impact of various
-vehicles by energy type on carbon emission
-
-● Determine if there is a significant correlation between
-each factor
-
-● Reveal possible outcomes of alternate energy
-consumption on carbon & GHG emissions
-
-● Summarize each step taken in the machine learning
-preprocess
+● Look at perr reseach review to corroborate our findings
