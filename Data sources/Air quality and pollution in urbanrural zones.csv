@@ -1,0 +1,338 @@
+Country,Air Pollutant,Data Aggregation Process,Year,Air Pollution Level,Unit Of Air Pollution Level,Air Quality Station Type,Air Quality Station Area,City Population
+Norway,CO,1 year 50 percentile,2003,0.3,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 %ile of daily values in a year,2003,0.471,mg/m3,Traffic,urban,623966
+Norway,CO,Annual mean / 1 calendar year,2003,0.673,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 percentile,2003,0.7,mg/m3,Traffic,urban,267950
+Norway,CO,1 year 50 %ile of daily values in a year,2003,0.758,mg/m3,Traffic,urban,267950
+Norway,CO,Annual mean / 1 calendar year,2003,0.936,mg/m3,Traffic,urban,267950
+Norway,CO,1 year daymax average,2003,1.308,mg/m3,Traffic,urban,623966
+Norway,CO,1 year daymax average,2003,1.527,mg/m3,Traffic,urban,267950
+Norway,CO,1 year day max,2003,4.235,mg/m3,Traffic,urban,267950
+Norway,CO,1 year day max,2003,5.363,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2003,6.625,mg/m3,Traffic,urban,267950
+Norway,CO,1 year day max max,2003,8.45,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2003,10.2,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2003,11.9,mg/m3,Traffic,urban,267950
+Norway,CO,1 year 50 percentile,2004,0.3,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 %ile of daily values in a year,2004,0.429,mg/m3,Traffic,urban,623966
+Norway,CO,Annual mean / 1 calendar year,2004,0.574,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 percentile,2004,0.6,mg/m3,Traffic,urban,267950
+Norway,CO,1 year 50 %ile of daily values in a year,2004,0.657,mg/m3,Traffic,urban,267950
+Norway,CO,Annual mean / 1 calendar year,2004,0.776,mg/m3,Traffic,urban,267950
+Norway,CO,1 year daymax average,2004,1.08,mg/m3,Traffic,urban,623966
+Norway,CO,1 year daymax average,2004,1.258,mg/m3,Traffic,urban,267950
+Norway,CO,1 year day max,2004,2.779,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max,2004,3.426,mg/m3,Traffic,urban,267950
+Norway,CO,1 year day max max,2004,4.088,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2004,5.857,mg/m3,Traffic,urban,267950
+Norway,CO,1 year hour max,2004,6,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2004,10.1,mg/m3,Traffic,urban,267950
+Norway,CO,1 year 50 percentile,2005,0.1,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 percentile,2005,0.1,mg/m3,Traffic,urban,129191
+Norway,CO,1 year 50 %ile of daily values in a year,2005,0.125,mg/m3,Traffic,urban,129191
+Norway,CO,1 year 50 percentile,2005,0.2,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2005,0.214,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 %ile of daily values in a year,2005,0.245,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2005,0.26,mg/m3,Traffic,urban,129191
+Norway,CO,1 year 50 percentile,2005,0.3,mg/m3,Traffic,urban,267950
+Norway,CO,Annual mean / 1 calendar year,2005,0.304,mg/m3,Traffic,urban,623966
+Norway,CO,Annual mean / 1 calendar year,2005,0.346,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2005,0.425,mg/m3,Traffic,urban,267950
+Norway,CO,Annual mean / 1 calendar year,2005,0.53,mg/m3,Traffic,urban,267950
+Norway,CO,1 year daymax average,2005,0.533,mg/m3,Traffic,urban,129191
+Norway,CO,1 year daymax average,2005,0.603,mg/m3,Traffic,urban,623966
+Norway,CO,1 year daymax average,2005,0.709,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2005,0.99,mg/m3,Traffic,urban,267950
+Norway,CO,1 year day max,2005,1.483,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2005,2.346,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2005,2.875,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2005,2.883,mg/m3,Traffic,urban,267950
+Norway,CO,1 year day max,2005,2.892,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max max,2005,3.775,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2005,5.162,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max max,2005,5.225,mg/m3,Traffic,urban,267950
+Norway,CO,1 year hour max,2005,5.4,mg/m3,Traffic,urban,
+Norway,CO,1 year hour max,2005,6.1,mg/m3,Traffic,urban,267950
+Norway,CO,1 year hour max,2005,6.9,mg/m3,Traffic,urban,129191
+Norway,CO,1 year hour max,2005,6.9,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 percentile,2006,-0.1,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2006,-0.021,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2006,0.043,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2006,0.1,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2006,0.1,mg/m3,Traffic,urban,129191
+Norway,CO,1 year 50 percentile,2006,0.1,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2006,0.143,mg/m3,Traffic,urban,129191
+Norway,CO,1 year 50 percentile,2006,0.2,mg/m3,Traffic,urban,179692
+Norway,CO,1 year 50 %ile of daily values in a year,2006,0.221,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2006,0.225,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2006,0.266,mg/m3,Traffic,urban,129191
+Norway,CO,1 year daymax average,2006,0.271,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2006,0.3,mg/m3,Traffic,urban,267950
+Norway,CO,1 year 50 %ile of daily values in a year,2006,0.308,mg/m3,Traffic,urban,267950
+Norway,CO,Annual mean / 1 calendar year,2006,0.344,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2006,0.346,mg/m3,Traffic,urban,179692
+Norway,CO,1 year 50 %ile of daily values in a year,2006,0.392,mg/m3,Traffic,urban,623966
+Norway,CO,Annual mean / 1 calendar year,2006,0.393,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2006,0.395,mg/m3,Traffic,urban,267950
+Norway,CO,1 year 50 percentile,2006,0.4,mg/m3,Traffic,urban,623966
+Norway,CO,Annual mean / 1 calendar year,2006,0.448,mg/m3,Traffic,urban,179692
+Norway,CO,Annual mean / 1 calendar year,2006,0.483,mg/m3,Traffic,urban,623966
+Norway,CO,1 year daymax average,2006,0.534,mg/m3,Traffic,urban,129191
+Norway,CO,1 year daymax average,2006,0.721,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2006,0.748,mg/m3,Traffic,urban,267950
+Norway,CO,1 year daymax average,2006,0.831,mg/m3,Traffic,urban,623966
+Norway,CO,1 year daymax average,2006,0.839,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2006,0.954,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2006,0.957,mg/m3,Traffic,urban,179692
+Norway,CO,1 year day max,2006,2.192,mg/m3,Traffic,urban,179692
+Norway,CO,1 year day max,2006,2.246,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2006,2.25,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2006,2.425,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2006,2.458,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max,2006,2.487,mg/m3,Traffic,urban,267950
+Norway,CO,1 year day max,2006,3.405,mg/m3,Traffic,urban,
+Norway,CO,1 year day max max,2006,3.7,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2006,3.75,mg/m3,Traffic,urban,179692
+Norway,CO,1 year day max max,2006,3.85,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max max,2006,3.862,mg/m3,Traffic,urban,
+Norway,CO,1 year day max max,2006,3.975,mg/m3,Traffic,urban,267950
+Norway,CO,1 year hour max,2006,5.8,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2006,6.617,mg/m3,Traffic,urban,
+Norway,CO,1 year hour max,2006,7.4,mg/m3,Traffic,urban,
+Norway,CO,1 year hour max,2006,8.6,mg/m3,Traffic,urban,
+Norway,CO,1 year hour max,2006,9.7,mg/m3,Traffic,urban,
+Norway,CO,1 year hour max,2006,10.5,mg/m3,Traffic,urban,267950
+Norway,CO,1 year hour max,2006,10.6,mg/m3,Traffic,urban,129191
+Norway,CO,1 year hour max,2006,11.5,mg/m3,Traffic,urban,179692
+Norway,CO,1 year 50 percentile,2007,-0.1,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2007,0.008,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2007,0.024,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2007,0.067,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2007,0.1,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2007,0.1,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2007,0.1,mg/m3,Traffic,urban,129191
+Norway,CO,1 year 50 %ile of daily values in a year,2007,0.125,mg/m3,Traffic,urban,129191
+Norway,CO,1 year 50 %ile of daily values in a year,2007,0.162,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2007,0.174,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2007,0.2,mg/m3,Traffic,urban,267950
+Norway,CO,1 year 50 percentile,2007,0.2,mg/m3,Traffic,urban,179692
+Norway,CO,1 year 50 %ile of daily values in a year,2007,0.221,mg/m3,Traffic,urban,179692
+Norway,CO,Annual mean / 1 calendar year,2007,0.239,mg/m3,Traffic,urban,129191
+Norway,CO,1 year 50 %ile of daily values in a year,2007,0.242,mg/m3,Traffic,urban,267950
+Norway,CO,Annual mean / 1 calendar year,2007,0.264,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2007,0.274,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2007,0.304,mg/m3,Traffic,urban,267950
+Norway,CO,Annual mean / 1 calendar year,2007,0.368,mg/m3,Traffic,urban,179692
+Norway,CO,1 year daymax average,2007,0.505,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2007,0.516,mg/m3,Traffic,urban,129191
+Norway,CO,1 year daymax average,2007,0.559,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2007,0.598,mg/m3,Traffic,urban,267950
+Norway,CO,1 year 50 percentile,2007,0.6,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 %ile of daily values in a year,2007,0.615,mg/m3,Traffic,urban,623966
+Norway,CO,Annual mean / 1 calendar year,2007,0.656,mg/m3,Traffic,urban,623966
+Norway,CO,1 year daymax average,2007,0.784,mg/m3,Traffic,urban,179692
+Norway,CO,1 year daymax average,2007,0.931,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max,2007,1.026,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2007,1.625,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2007,1.804,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max,2007,1.871,mg/m3,Traffic,urban,179692
+Norway,CO,1 year day max,2007,1.929,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2007,2.042,mg/m3,Traffic,urban,267950
+Norway,CO,1 year day max,2007,2.062,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2007,2.5,mg/m3,Traffic,urban,
+Norway,CO,1 year day max max,2007,2.875,mg/m3,Traffic,urban,
+Norway,CO,1 year day max max,2007,2.938,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2007,3.125,mg/m3,Traffic,urban,267950
+Norway,CO,1 year day max max,2007,3.125,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max max,2007,3.25,mg/m3,Traffic,urban,
+Norway,CO,1 year day max max,2007,3.6,mg/m3,Traffic,urban,179692
+Norway,CO,1 year hour max,2007,4.3,mg/m3,Traffic,urban,179692
+Norway,CO,1 year hour max,2007,4.4,mg/m3,Traffic,urban,
+Norway,CO,1 year hour max,2007,4.9,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2007,6.3,mg/m3,Traffic,urban,129191
+Norway,CO,1 year hour max,2007,7.9,mg/m3,Traffic,urban,
+Norway,CO,1 year hour max,2007,12.5,mg/m3,Traffic,urban,267950
+Norway,CO,1 year hour max,2007,18.3,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2008,0,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2008,0,mg/m3,Background,urban,129191
+Norway,CO,Annual mean / 1 calendar year,2008,0.034,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2008,0.038,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2008,0.054,mg/m3,Background,urban,129191
+Norway,CO,1 year 50 percentile,2008,0.1,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2008,0.1,mg/m3,Traffic,urban,129191
+Norway,CO,1 year 50 percentile,2008,0.1,mg/m3,Traffic,urban,179692
+Norway,CO,1 year 50 %ile of daily values in a year,2008,0.104,mg/m3,Traffic,urban,129191
+Norway,CO,1 year 50 %ile of daily values in a year,2008,0.129,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2008,0.151,mg/m3,Background,urban,129191
+Norway,CO,1 year 50 %ile of daily values in a year,2008,0.171,mg/m3,Traffic,urban,179692
+Norway,CO,Annual mean / 1 calendar year,2008,0.176,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2008,0.207,mg/m3,Traffic,urban,129191
+Norway,CO,1 year daymax average,2008,0.233,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2008,0.263,mg/m3,Traffic,urban,179692
+Norway,CO,1 year 50 %ile of daily values in a year,2008,0.287,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 percentile,2008,0.3,mg/m3,Traffic,urban,623966
+Norway,CO,Annual mean / 1 calendar year,2008,0.329,mg/m3,Traffic,urban,623966
+Norway,CO,1 year daymax average,2008,0.342,mg/m3,Background,urban,129191
+Norway,CO,1 year daymax average,2008,0.391,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2008,0.423,mg/m3,Traffic,urban,129191
+Norway,CO,1 year daymax average,2008,0.532,mg/m3,Traffic,urban,623966
+Norway,CO,1 year daymax average,2008,0.593,mg/m3,Traffic,urban,179692
+Norway,CO,1 year day max,2008,0.817,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2008,0.878,mg/m3,Background,urban,129191
+Norway,CO,1 year day max,2008,1.025,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2008,1.325,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2008,1.487,mg/m3,Background,urban,129191
+Norway,CO,1 year day max,2008,1.825,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max max,2008,1.825,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2008,1.914,mg/m3,Traffic,urban,179692
+Norway,CO,1 year day max max,2008,1.975,mg/m3,Traffic,urban,
+Norway,CO,1 year day max max,2008,2.35,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2008,2.8,mg/m3,Traffic,urban,
+Norway,CO,1 year day max max,2008,3.25,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max max,2008,3.6,mg/m3,Traffic,urban,179692
+Norway,CO,1 year hour max,2008,3.7,mg/m3,Background,urban,129191
+Norway,CO,1 year hour max,2008,4.3,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2008,4.4,mg/m3,Traffic,urban,129191
+Norway,CO,1 year hour max,2008,5.2,mg/m3,Traffic,urban,179692
+Norway,CO,1 year hour max,2008,5.8,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2009,0.072,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2009,0.074,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2009,0.083,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 percentile,2009,0.1,mg/m3,Traffic,urban,179692
+Norway,CO,1 year 50 percentile,2009,0.1,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2009,0.1,mg/m3,Background,urban,129191
+Norway,CO,1 year 50 percentile,2009,0.1,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2009,0.1,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2009,0.1,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 %ile of daily values in a year,2009,0.108,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2009,0.113,mg/m3,Traffic,urban,179692
+Norway,CO,1 year 50 %ile of daily values in a year,2009,0.138,mg/m3,Background,urban,129191
+Norway,CO,Annual mean / 1 calendar year,2009,0.146,mg/m3,Traffic,urban,623966
+Norway,CO,Annual mean / 1 calendar year,2009,0.177,mg/m3,Background,urban,129191
+Norway,CO,Annual mean / 1 calendar year,2009,0.18,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2009,0.183,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2009,0.2,mg/m3,Traffic,urban,129191
+Norway,CO,1 year daymax average,2009,0.225,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2009,0.232,mg/m3,Traffic,urban,179692
+Norway,CO,1 year 50 %ile of daily values in a year,2009,0.237,mg/m3,Traffic,urban,129191
+Norway,CO,Annual mean / 1 calendar year,2009,0.283,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2009,0.317,mg/m3,Traffic,urban,623966
+Norway,CO,Annual mean / 1 calendar year,2009,0.32,mg/m3,Traffic,urban,129191
+Norway,CO,1 year daymax average,2009,0.41,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2009,0.432,mg/m3,Background,urban,129191
+Norway,CO,1 year daymax average,2009,0.484,mg/m3,Traffic,urban,179692
+Norway,CO,1 year 50 percentile,2009,0.5,mg/m3,Traffic,urban,84476
+Norway,CO,1 year 50 %ile of daily values in a year,2009,0.583,mg/m3,Traffic,urban,84476
+Norway,CO,Annual mean / 1 calendar year,2009,0.583,mg/m3,Traffic,urban,84476
+Norway,CO,1 year daymax average,2009,0.618,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2009,0.661,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max,2009,0.663,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2009,0.873,mg/m3,Traffic,urban,84476
+Norway,CO,1 year day max,2009,0.9,mg/m3,Background,urban,129191
+Norway,CO,1 year day max,2009,1.209,mg/m3,Traffic,urban,84476
+Norway,CO,1 year day max,2009,1.433,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max,2009,1.442,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2009,1.475,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max max,2009,1.525,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2009,1.567,mg/m3,Traffic,urban,
+Norway,CO,1 year day max max,2009,1.788,mg/m3,Background,urban,129191
+Norway,CO,1 year day max max,2009,1.875,mg/m3,Traffic,urban,84476
+Norway,CO,1 year day max max,2009,2.1,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2009,2.3,mg/m3,Traffic,urban,84476
+Norway,CO,1 year hour max,2009,2.4,mg/m3,Background,urban,129191
+Norway,CO,1 year day max max,2009,2.612,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max max,2009,2.625,mg/m3,Traffic,urban,
+Norway,CO,1 year hour max,2009,3,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2009,3.004,mg/m3,Traffic,urban,179692
+Norway,CO,1 year hour max,2009,3.5,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2009,3.662,mg/m3,Traffic,urban,
+Norway,CO,1 year hour max,2009,3.9,mg/m3,Traffic,urban,129191
+Norway,CO,1 year day max max,2009,4.512,mg/m3,Traffic,urban,179692
+Norway,CO,1 year hour max,2009,4.8,mg/m3,Traffic,urban,
+Norway,CO,1 year hour max,2009,6,mg/m3,Traffic,urban,179692
+Norway,CO,1 year hour max,2009,12.4,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 percentile,2010,0,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2010,0.058,mg/m3,Traffic,urban,
+Norway,CO,1 year 50 %ile of daily values in a year,2010,0.1,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 percentile,2010,0.1,mg/m3,Traffic,urban,623966
+Norway,CO,Annual mean / 1 calendar year,2010,0.116,mg/m3,Traffic,urban,
+Norway,CO,Annual mean / 1 calendar year,2010,0.209,mg/m3,Traffic,urban,623966
+Norway,CO,1 year daymax average,2010,0.315,mg/m3,Traffic,urban,
+Norway,CO,1 year daymax average,2010,0.4,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max,2010,1.036,mg/m3,Traffic,urban,
+Norway,CO,1 year day max,2010,1.663,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2010,2.2,mg/m3,Traffic,urban,
+Norway,CO,1 year hour max,2010,2.7,mg/m3,Traffic,urban,
+Norway,CO,1 year day max max,2010,3.263,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2010,5.3,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 percentile,2011,-0.19,mg/m3,Traffic,urban,84476
+Norway,CO,1 year 50 %ile of daily values in a year,2011,-0.158,mg/m3,Traffic,urban,84476
+Norway,CO,Annual mean / 1 calendar year,2011,-0.095,mg/m3,Traffic,urban,84476
+Norway,CO,1 year daymax average,2011,0.067,mg/m3,Traffic,urban,84476
+Norway,CO,1 year 50 percentile,2011,0.3,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 %ile of daily values in a year,2011,0.37,mg/m3,Traffic,urban,623966
+Norway,CO,Annual mean / 1 calendar year,2011,0.4,mg/m3,Traffic,urban,623966
+Norway,CO,1 year daymax average,2011,0.756,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max,2011,0.933,mg/m3,Traffic,urban,84476
+Norway,CO,1 year day max max,2011,1.737,mg/m3,Traffic,urban,84476
+Norway,CO,1 year day max,2011,2.658,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2011,3.162,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2011,4.1,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2011,4.6,mg/m3,Traffic,urban,84476
+Norway,CO,1 year 50 percentile,2012,0.3,mg/m3,Traffic,urban,84476
+Norway,CO,1 year 50 percentile,2012,0.3,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 %ile of daily values in a year,2012,0.314,mg/m3,Traffic,urban,623966
+Norway,CO,1 year 50 %ile of daily values in a year,2012,0.323,mg/m3,Traffic,urban,84476
+Norway,CO,Annual mean / 1 calendar year,2012,0.329,mg/m3,Traffic,urban,84476
+Norway,CO,Annual mean / 1 calendar year,2012,0.364,mg/m3,Traffic,urban,623966
+Norway,CO,1 year daymax average,2012,0.5,mg/m3,Traffic,urban,84476
+Norway,CO,1 year daymax average,2012,0.599,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max,2012,0.974,mg/m3,Traffic,urban,84476
+Norway,CO,1 year day max max,2012,1.462,mg/m3,Traffic,urban,84476
+Norway,CO,1 year day max,2012,2.234,mg/m3,Traffic,urban,623966
+Norway,CO,1 year day max max,2012,3.392,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2012,3.96,mg/m3,Traffic,urban,623966
+Norway,CO,1 year hour max,2012,4.03,mg/m3,Traffic,urban,84476
+Norway,CO,Annual mean / 1 calendar year,2013,0.107,mg/m3,Traffic,Urban,84476
+Norway,CO,Annual mean / 1 calendar year,2013,0.341,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year day max max,2013,1.496,mg/m3,Traffic,Urban,84476
+Norway,CO,1 year day max max,2013,2.316,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2013,2.98,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2013,3.74,mg/m3,Traffic,Urban,84476
+Norway,CO,Annual mean / 1 calendar year,2013,,mg/m3,Traffic,Suburban,
+Norway,CO,1 year hour max,2013,,mg/m3,Traffic,Suburban,
+Norway,CO,Annual mean / 1 calendar year,2014,-0.108,mg/m3,Traffic,Urban,84476
+Norway,CO,Annual mean / 1 calendar year,2014,0.372,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year day max max,2014,1.002,mg/m3,Traffic,Urban,84476
+Norway,CO,1 year hour max,2014,1.592,mg/m3,Traffic,Urban,84476
+Norway,CO,1 year day max max,2014,2.003,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2014,3.201,mg/m3,Traffic,Urban,623966
+Norway,CO,Annual mean / 1 calendar year,2014,,mg/m3,Traffic,Suburban,
+Norway,CO,1 year hour max,2014,,mg/m3,Traffic,Suburban,
+Norway,CO,Annual mean / 1 calendar year,2015,-0.17,mg/m3,Traffic,Urban,84476
+Norway,CO,Annual mean / 1 calendar year,2015,0.349,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year day max max,2015,0.509,mg/m3,Traffic,Urban,84476
+Norway,CO,1 year day max max,2015,1.521,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2015,2.469,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2015,2.566,mg/m3,Traffic,Urban,84476
+Norway,CO,Annual mean / 1 calendar year,2016,0.345,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year day max max,2016,2.488,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2016,3.141,mg/m3,Traffic,Urban,623966
+Norway,CO,Annual mean / 1 calendar year,2017,0.316,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year day max max,2017,2.139,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2017,2.381,mg/m3,Traffic,Urban,623966
+Norway,CO,Annual mean / 1 calendar year,2018,0.297,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year day max max,2018,1.085,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2018,1.215,mg/m3,Traffic,Urban,623966
+Norway,CO,Annual mean / 1 calendar year,2019,0.269,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year day max max,2019,1.042,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2019,1.335,mg/m3,Traffic,Urban,623966
+Norway,CO,Annual mean / 1 calendar year,2020,0.247,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year day max max,2020,0.797,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2020,0.962,mg/m3,Traffic,Urban,623966
+Norway,CO,Annual mean / 1 calendar year,2021,0.286,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year day max max,2021,1.234,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2021,1.505,mg/m3,Traffic,Urban,623966
+Norway,CO,Annual mean / 1 calendar year,2022,0.231,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year day max max,2022,0.85,mg/m3,Traffic,Urban,623966
+Norway,CO,1 year hour max,2022,0.99,mg/m3,Traffic,Urban,623966
