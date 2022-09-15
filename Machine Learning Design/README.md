@@ -72,5 +72,9 @@ Savings in CO2 emissions by switching to electric vehicles = C * (E / F)
 3.As expected, we can see that the model predicts that CO2 offset keeps increasing YoY. This matches reality based on our research.
 ![Prediction](https://github.com/RuchitaAg/Group15_Project/blob/main/Machine%20Learning%20Design/Images/prediction.png)
 
+# Recommendations
+* Try alternate regression algorithms to see if we can improve accuracy of our model.
+* Research and find richer datasets containing attributes that have direct or latent impact of CO2 offset by EVs. For e.g. what proposrtion of electricity generation can be attributed to charging EVs, how much industrial energy consumption (electricity and heat) can be attributed to manufacturing of EVs.
+
 
 
