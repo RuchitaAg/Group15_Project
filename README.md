@@ -26,6 +26,17 @@ Given the alarming rates of carbon emissions we were keen to:
 ● Energy production
 
 
+## Data Sources:
+
+Reliable data sourced from Kaggle, U.S. Environmental Protection Agency (EPA) websites and International Energy Agency - IEA. Links below:
+
+●  https://ourworldindata.org/
+
+●  https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions
+
+●  https://www.iea.org/articles/global-ev-data-explorer
+
+
 
 ## Data Cleaning/Wrangling
 
