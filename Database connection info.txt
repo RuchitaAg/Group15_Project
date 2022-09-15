@@ -1,8 +1,0 @@
-import psycopg2
-engine = psycopg2.connect(
-    database="postgres",
-    user="postgres",
-    password="qt3WxeF5SzWtQV3",
-    host="database-ev.cirez3rkweci.us-west-1.rds.amazonaws.com",
-    port='5432'
-)
