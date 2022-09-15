@@ -47,6 +47,18 @@ Reliable data sourced from Kaggle, U.S. Environmental Protection Agency (EPA) we
 ● Matched mapping of country names 
 
 
+## Data Analyses:
+
+We performed the Univariate and Multi-variate analysis as well as created a correlation matrix to exhibit linkages between various features. It turns out several features have strong correlation like transport with Heat & Electiricity as well as Buildings, the infrastructure needed to build transport
+
+![image](https://user-images.githubusercontent.com/102870991/190325019-01f84146-15a7-49c8-9763-dda32d485111.png)
+
+
+![image](https://user-images.githubusercontent.com/102870991/190324933-4715a38a-786e-417c-a715-509a9dbfdd4b.png)
+
+![image](https://user-images.githubusercontent.com/102870991/190324809-65a37b29-0add-4e63-804f-21e5932cf624.png)
+
+
 ## Database
 
 We created a PGAdmin Database to analyse the data sets collated. The cleaned data was fed using the Postgres SQL:
