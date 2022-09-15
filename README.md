@@ -158,5 +158,18 @@ Resources/Interactive Dashboard.png
 ● Cleaner energy sources to aid EV charging capabilities with emerging infrastructure
 
 
+## Recommendations for Future Analysis
+
+● Time permitting we would like to integrate the CO2 emission data with the
+EV sales data and show that on global map
+
+● Studies at length the assumptions around future dominating country in EV
+demand
+
+● Studied Tesla’s infrastructure to prove net impact of Carbon footprint due
+to it’s energy consumed in charging EVs
 
 
+Hope you find our analysis useful!
+
+Team Green Wave
