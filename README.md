@@ -77,6 +77,8 @@ Given the alarming rates of carbon emissions we were keen to:
 
 ## Dashboard Blueprint:
 
+Resources/Interactive Dashboard.png
+
 Tools:
 
 ● PostgresSQL
