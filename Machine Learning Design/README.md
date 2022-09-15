@@ -55,21 +55,22 @@ Available features:
 
 Savings in CO2 emissions by switching to electric vehicles = C * (E / F)
 
-#Linear Regression Model Performance
+# Linear Regression Model Performance
 ![Version 1 of model Performance](https://github.com/RuchitaAg/Group15_Project/blob/main/Machine%20Learning%20Design/Images/accuracy.png)
 
 ![Version 2 of model Performance](https://github.com/RuchitaAg/Group15_Project/blob/main/Machine%20Learning%20Design/Images/Linear%20regression%20dropping%20ev%20bikes.png)
 
-#Train-Test-validation Split
+# Train-Test-validation Split
 ![Train- Test Split](https://github.com/RuchitaAg/Group15_Project/blob/main/Machine%20Learning%20Design/Images/train_test%20screenshot.png)
 
-#Hypothesis testing
+# Hypothesis testing
 ![Hypotheis testing](https://github.com/RuchitaAg/Group15_Project/blob/main/Machine%20Learning%20Design/Images/Model%20Summary.png)
 
-#Forecasting/ Predictions based on Model
-*Our target variable Y in the training dataset was limited to 2004-2015 but we did have feature values X till 2019.
-*So as a thought exercise, we decided to hypothetically forecast the Y-values – i.e. CO2 offset by EVs – from 2016-2019
-*As expected, we can see that the model predicts that CO2 offset keeps increasing YoY. This matches reality based on our research.
-![Prediction](https://github.com/RuchitaAg/Group15_Project/blob/main/Machine%20Learning%20Design/Images/Model%20Summary.png)
+# Forecasting/ Predictions based on Model
+1.Our target variable Y in the training dataset was limited to 2004-2015 but we did have feature values X till 2019.
+2.So as a thought exercise, we decided to hypothetically forecast the Y-values – i.e. CO2 offset by EVs – from 2016-2019
+3.As expected, we can see that the model predicts that CO2 offset keeps increasing YoY. This matches reality based on our research.
+![Prediction](https://github.com/RuchitaAg/Group15_Project/blob/main/Machine%20Learning%20Design/Images/prediction.png)
+
 
 
